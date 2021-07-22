@@ -1,6 +1,6 @@
 
 
-git pull
+git pull $1
 
 
 
